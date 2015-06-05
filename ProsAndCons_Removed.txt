@@ -1,0 +1,91 @@
+<!---Topic1 section1 details-->
+                    <div class="panel panel-default" id="t1s1d">
+                        <div class="panel-heading">
+                            <h4><a data-toggle="collapse" data-parent="#infopanel" href="#collapseEducationElementary"> Is private school better than public school?</a></h4>
+                        </div>
+                        <div id="collapseEducationElementary" class="panel-collapse collapse">
+                            <div class="panel-body" style="background-color:#b7f5e0">
+                                <div class="panel-body" style="background-color:#b7f5e0; border-bottom:1px solid white">
+                                    <div class="panel" style="background-color:#b7f5e0">
+                                        More attention to students. Each student has ... ssahdjs ajdk..ahdja ahh.ahdjahajkhda addahdjahdjahjkasddjkhjjha hagejewhgf jfhewfwe wehfweh wekj h kj hgf dfjgfjhds hjdsgvjhdsgv jhdv ehfgdh dsj<br />zzzzzzgdfwdf wfwgf fgjdhgf jhgfjhgfj fhejgfjhegfje
+                                    </div>
+                                    <div class="panel" style="background-color:#b7f5e0">Submitted by: <a href="#">SchoolResearcher</a></div>
+                                </div>
+                                <div class="panel-body" style="background-color:#b7f5e0">
+                                    <div class="panel" style="background-color:#b7f5e0">
+                                        More extra curricular activities
+                                    </div>
+                                    <div class="panel" style="background-color:#b7f5e0">Submitted by: <a href="#">expert123</a></div>
+                                </div>
+                            </div>
+                            <div class="panel-body" style="background-color:lightpink">
+                                <div class="panel" style="background-color:lightpink">Expensive... For one child per month cost roughly about $1400 for tution alone, then you have to pay library fees, computer lab fees and sciene lab fees.So if you have three children you'r e loking at... </div>
+                                <div class="panel" style="background-color:lightpink">Different curriculum, so if you're moving from ...<br /> Language introduced in different private schhols is different, don't ahve the flexibility to change language...</div>
+                            </div>
+                        </div>
+
+                    
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4><a data-toggle="collapse" data-parent="#infopanel" href="#collapseEducationElementary1"> Transportation?</a></h4>
+                            </div>
+                            <div id="collapseEducationElementary1" class="panel-collapse collapse">
+                                <div class="panel-body" style="background-color:aquamarine">
+                                    <div class="panel" style="background-color:aquamarine">More attention to students. Each student has ... ssahdjs ajdk..ahdja ahh.ahdjahajkhda addahdjahdjahjkasddjkhjjha hagejewhgf jfhewfwe wehfweh wekj h kj hgf dfjgfjhds hjdsgvjhdsgv jhdv ehfgdh dsj<br />zzzzzzgdfwdf wfwgf fgjdhgf jhgfjhgfj fhejgfjhegfje</div>
+                                    <div class="panel" style="background-color:aquamarine">More extra curricular activities</div>
+                                </div>
+                                <div class="panel-body" style="background-color:lightpink">
+                                    <div class="panel" style="background-color:lightpink">Expensive... For one child per month cost roughly about $1400 for tution alone, then you have to pay library fees, computer lab fees and sciene lab fees.So if you have three children you'r e loking at... </div>
+                                    <div class="panel" style="background-color:lightpink">Different curriculum, so if you're moving from ...<br /> Language introduced in different private schhols is different, don't ahve the flexibility to change language...</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--end of t1s1-->
+
+                    <!---Topic2 section1 details-->
+                    <div class="panel panel-default" id="t2s1d">
+                        <div class="panel-heading">
+                            <h4><a data-toggle="collapse" data-parent="#infopanel" href="#collapseCareerCorporate"> How long does it take to become a mangaer?</a></h4>
+                        </div>
+                        <div id="collapseCareerCorporate" class="panel-collapse collapse">
+                            <div class="panel-body" style="background-color:#b7f5e0">
+                                <div class="panel-body" style="background-color:#b7f5e0; border-bottom:1px solid white">
+                                    <div class="panel" style="background-color:#b7f5e0">
+                                        More attention to students. Each student has ... ssahdjs ajdk..ahdja ahh.ahdjahajkhda addahdjahdjahjkasddjkhjjha hagejewhgf jfhewfwe wehfweh wekj h kj hgf dfjgfjhds hjdsgvjhdsgv jhdv ehfgdh dsj<br />zzzzzzgdfwdf wfwgf fgjdhgf jhgfjhgfj fhejgfjhegfje
+                                    </div>
+                                    <div class="panel" style="background-color:#b7f5e0">Submitted by: <a href="#">SchoolResearcher</a></div>
+                                </div>
+                                <div class="panel-body" style="background-color:#b7f5e0">
+                                    <div class="panel" style="background-color:#b7f5e0">
+                                        More extra curricular activities
+                                    </div>
+                                    <div class="panel" style="background-color:#b7f5e0">Submitted by: <a href="#">expert123</a></div>
+                                </div>
+                            </div>
+                            <div class="panel-body" style="background-color:lightpink">
+                                <div class="panel" style="background-color:lightpink">Expensive... For one child per month cost roughly about $1400 for tution alone, then you have to pay library fees, computer lab fees and sciene lab fees.So if you have three children you'r e loking at... </div>
+                                <div class="panel" style="background-color:lightpink">Different curriculum, so if you're moving from ...<br /> Language introduced in different private schhols is different, don't ahve the flexibility to change language...</div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4><a data-toggle="collapse" data-parent="#infopanel" href="#collapseCareerCorporate1"> How to negotiate salary?</a></h4>
+                            </div>
+                            <div id="collapseCareerCorporate1" class="panel-collapse collapse">
+                                <div class="panel-body" style="background-color:aquamarine">
+                                    <div class="panel" style="background-color:aquamarine">More attention to students. Each student has ... ssahdjs ajdk..ahdja ahh.ahdjahajkhda addahdjahdjahjkasddjkhjjha hagejewhgf jfhewfwe wehfweh wekj h kj hgf dfjgfjhds hjdsgvjhdsgv jhdv ehfgdh dsj<br />zzzzzzgdfwdf wfwgf fgjdhgf jhgfjhgfj fhejgfjhegfje</div>
+                                    <div class="panel" style="background-color:aquamarine">More extra curricular activities</div>
+                                </div>
+                                <div class="panel-body" style="background-color:lightpink">
+                                    <div class="panel" style="background-color:lightpink">Expensive... For one child per month cost roughly about $1400 for tution alone, then you have to pay library fees, computer lab fees and sciene lab fees.So if you have three children you'r e loking at... </div>
+                                    <div class="panel" style="background-color:lightpink">Different curriculum, so if you're moving from ...<br /> Language introduced in different private schhols is different, don't ahve the flexibility to change language...</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--end of t2s1-->
